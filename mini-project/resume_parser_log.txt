@@ -1,0 +1,5 @@
+2025-06-10 22:27:23,341 - __main__ - INFO - Successfully imported ResumeParser
+2025-06-10 22:27:23,351 - __main__ - INFO - Successfully read resume: D:\tmp\mini-project\10985403.pdf
+2025-06-10 22:27:23,351 - resume_parser - INFO - Initialized ResumeParser
+2025-06-10 22:27:23,351 - __main__ - INFO - Initialized ResumeParser
+2025-06-10 22:27:24,540 - __main__ - INFO - Successfully parsed resume

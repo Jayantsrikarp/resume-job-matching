@@ -1,0 +1,26 @@
+
+Extracted Skills:
+  - r
+  - machine learning
+
+Raw Skills Section:
+Skills
+
+
+
+Parsed Resume Keys:
+  - content
+  - name
+  - email
+  - phone
+  - location
+  - skills
+  - education
+  - experience
+  - projects
+
+Skills from parsed_resume['skills']:
+[
+  "r",
+  "machine learning"
+]

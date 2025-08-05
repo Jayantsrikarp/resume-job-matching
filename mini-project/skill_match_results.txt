@@ -1,0 +1,67 @@
+Resume Skills:
+  - 3D
+  - ANSYS
+  - AutoCAD
+  - automation
+  - Automotive
+  - CAD/CAM
+  - CAD
+  - CATIA
+  - Engineering Analysis
+  - lathe
+  - Manufacturing process
+  - Materials
+  - material selection
+  - Oil
+  - Optimization
+  - prototyping
+  - Robotic
+  - safety
+  - simulation
+  - SolidWorks
+  - SPC
+  - statistical analysis
+  - welding
+
+Top 5 Job Matches:
+
+1. Mechanical Engineer at Microsoft (Job ID: 4228127685)
+   Skill Match Score: 0.3478
+   Required Skills: CAD, SolidWorks, AutoCAD, 3D modeling, prototyping, material selection, manufacturing process, engineering analysis
+   Matching Skills: CAD, SolidWorks, AutoCAD, 3D modeling, prototyping, material selection, manufacturing process, engineering analysis
+   Missing Skills: 
+
+2. Manufacturing Engineer at Tesla (Job ID: 4228127686)
+   Skill Match Score: 0.3333
+   Required Skills: Manufacturing, automation, robotics, CAD, SolidWorks, welding, safety, quality control, SPC
+   Matching Skills: Manufacturing, automation, robotics, CAD, SolidWorks, welding, safety, SPC
+   Missing Skills: quality control
+
+3. Mechanical Design Engineer at Siemens (Job ID: 4228127689)
+   Skill Match Score: 0.3043
+   Required Skills: CAD, SolidWorks, ANSYS, simulation, optimization, materials, manufacturing
+   Matching Skills: CAD, SolidWorks, ANSYS, simulation, optimization, materials, manufacturing
+   Missing Skills: 
+
+4. Automotive Engineer at Ford (Job ID: 4228127688)
+   Skill Match Score: 0.2500
+   Required Skills: Automotive, CAD, simulation, testing, prototyping, materials, safety
+   Matching Skills: Automotive, CAD, simulation, prototyping, materials, safety
+   Missing Skills: testing
+
+5. Materials Engineer at ExxonMobil (Job ID: 4228127690)
+   Skill Match Score: 0.2083
+   Required Skills: Materials science, testing, analysis, oil, manufacturing, safety
+   Matching Skills: Materials science, analysis, oil, manufacturing, safety
+   Missing Skills: testing
+
+Skill Score Statistics:
+  Average Score: 0.1856
+  Median Score: 0.2083
+  Min Score: 0.0000
+  Max Score: 0.3478
+  Jobs with Zero Skill Match: 1 out of 10
+
+Jobs with Zero Skill Match:
+  - Systems Engineer at Lockheed Martin (Job ID: 4228127692)
+    Required Skills: Systems engineering, requirements analysis, testing, aerospace, defense

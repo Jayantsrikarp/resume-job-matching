@@ -1,0 +1,77 @@
+[
+  {
+    "job": {
+      "job_id": 9,
+      "title": "Machine Learning Engineer",
+      "company": "AILabs",
+      "location": "Atlanta, GA",
+      "description": "Design and implement machine learning models for production environments.",
+      "requirements": [],
+      "salary_range": "$130,000 - $180,000",
+      "experience_level": "Senior",
+      "extracted_skills": [],
+      "responsibilities": [],
+      "benefits": [],
+      "normalized_location": "Atlanta, GA",
+      "salary_min": null,
+      "salary_max": null
+    },
+    "score": 0.2496803104877472,
+    "explanation": "Machine Learning Engineer is a good match for your profile. This job partially matches your profile.",
+    "matching_skills": [],
+    "missing_skills": [],
+    "skill_score": 0.0,
+    "location_score": 0.0,
+    "embedding_score": 0.4993606209754944
+  },
+  {
+    "job": {
+      "job_id": 1,
+      "title": "Software Engineer",
+      "company": "TechCorp",
+      "location": "San Francisco, CA",
+      "description": "Develop and maintain software applications using Python and JavaScript.",
+      "requirements": [],
+      "salary_range": "$100,000 - $150,000",
+      "experience_level": "Mid-Senior",
+      "extracted_skills": [],
+      "responsibilities": [],
+      "benefits": [],
+      "normalized_location": "San Francisco, CA",
+      "salary_min": null,
+      "salary_max": null
+    },
+    "score": 0.23561631321907045,
+    "explanation": "Software Engineer is a good match for your profile. The job location matches your preferred location. This job partially matches your profile.",
+    "matching_skills": [],
+    "missing_skills": [],
+    "skill_score": 0.0,
+    "location_score": 0.8,
+    "embedding_score": 0.31123262643814087
+  },
+  {
+    "job": {
+      "job_id": 4,
+      "title": "UX Designer",
+      "company": "DesignMasters",
+      "location": "Austin, TX",
+      "description": "Create user-centered designs and prototypes for web and mobile applications.",
+      "requirements": [],
+      "salary_range": "$90,000 - $130,000",
+      "experience_level": "Mid-Level",
+      "extracted_skills": [],
+      "responsibilities": [],
+      "benefits": [],
+      "normalized_location": "Austin, TX",
+      "salary_min": null,
+      "salary_max": null
+    },
+    "score": 0.1566234529018402,
+    "explanation": "UX Designer is a good match for your profile. This job partially matches your profile.",
+    "matching_skills": [],
+    "missing_skills": [],
+    "skill_score": 0.0,
+    "location_score": 0.0,
+    "embedding_score": 0.3132469058036804
+  }
+]

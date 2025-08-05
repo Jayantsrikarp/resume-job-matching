@@ -1,0 +1,237 @@
+job_id,company,title,location,experience_level,required_skills,salary_range,description
+4228127684,Oracle,Software Development Director,"Austin, TX",Mid-Senior level,"Python, Java, cloud, distributed systems, data structures, engineering, software development, algorithms","$122,500 - $291,800","Job Description
+
+As a Director or Senior Manager in this team, you will be responsible for setting roadmap goals, collaborating with the product team to gather customer requirements, building and delivering high impact features, as well as driving operational and performance improvements for the platform. You will lead a team of highly talented engineers to deliver impactful business goals for the broader Serverless organization. You will also need to hire, grow, mentor and performance manage th..."
+4224657853,Google,"Senior Software Engineering Manager, AI/ML, Google Workspace","Sunnyvale, CA",Mid-Senior level,"ML, Python, Java, C, engineering, software development, JavaScript, management, leadership, AI","$248,000-$349,000","Minimum qualifications:
+
+
+ * Bachelor’s degree or equivalent practical experience.
+ * 8 years of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
+ * 7 years of experience leading technical project strategy, ML design, and optimizing industry-scale ML infrastructure (e.g., model deployment, model evaluation, data processing, debugging, fine tuning).
+ * 5 years of experience in a technical leadership role; overseeing projects, with..."
+4126331791,Adobe,Manager Software Development,"San Jose, CA",Mid-Senior level,"ML, machine learning, cloud, distributed systems, NoSQL, engineering, Azure, leadership, AI, AWS","$143,700 -- $289,900","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."
+4240384232,Uber,"Engineering Manager II, UberEats Order Platform","Sunnyvale, CA",Mid-Senior level,"leadership, engineering, management","$223,000 per year - USD$248,000","About The Team
+
+You will be joining the UberEats Order Platform Team. This team handles the core product layer orchestration for all Delivery orders at Uber, across the lifecycle from order creation to fulfillment to billing. The main themes within the team are reliability, architectural improvements and new logistical capability building.
+
+About The Role
+
+We are looking for a technical leader with a platform mindset who will manage the team that focuses on evolving our platform offerings as we ..."
+4240383422,Uber,Engineering Manager II - Autonomous,"San Francisco, CA",Mid-Senior level,"leadership, engineering","$223,000 per year - USD$248,000","About The Role
+
+The Autonomous Mobility & Delivery (AM&D) team is leading Uber's push into an autonomous future across Rides and Eats. As we move toward a world where autonomous and human-driven vehicles coexist, we're building a hybrid marketplace that seamlessly integrates AVs into every part of the Uber experience - delivering reliability, efficiency, and scale across our global platform.
+
+Our work touches nearly every Uber service. Over the past year, we have partnered with leading autonomou..."
+4240382429,Uber,"Engineering Manager II, Delivery Marketplace","San Francisco, CA",Mid-Senior level,"machine learning, engineering, management","$223,000 per year - USD$248,000","About The Role
+
+The Consumer Pricing and Incentives team - part of the Delivery Marketplace organization - shapes how millions of consumers interact with Uber's Delivery business, from ordering food to getting groceries delivered to their doorstep. Our systems power hundreds of millions of consumers and millions of merchants globally - and we're growing faster than ever.
+
+We are looking for an Engineering Manager who excels at problem-solving and critical thinking, has a strong track record of b..."
+4240382422,Uber,Engineering Manager II,"Sunnyvale, CA",Mid-Senior level,"machine learning, cloud, engineering, management, leadership","$223,000 per year - USD$248,000","About The Role
+
+We're looking for an experienced Engineering Manager to define and drive the technical roadmap for Uber's Road Safety products, safeguarding millions of users every day. You'll collaborate closely with Product, Data Science, and Operations teams to develop cutting-edge solutions that reduce crashes and injuries on our platform, leveraging technologies like telematics, motion sensing, and machine learning.
+
+About The Team
+
+Uber's Safety organization sits at the heart of our busine..."
+4240383436,Uber,Engineering Manager II,"San Francisco, CA",Mid-Senior level,"machine learning, cloud, engineering, management, leadership","$223,000 per year - USD$248,000","About The Role
+
+We're looking for an experienced Engineering Manager to define and drive the technical roadmap for Uber's Road Safety products, safeguarding millions of users every day. You'll collaborate closely with Product, Data Science, and Operations teams to develop cutting-edge solutions that reduce crashes and injuries on our platform, leveraging technologies like telematics, motion sensing, and machine learning.
+
+About The Team
+
+Uber's Safety organization sits at the heart of our busine..."
+4240378886,Uber,"Engineering Manager II, UberEats Order Platform","San Francisco, CA",Mid-Senior level,"leadership, engineering, management","$223,000 per year - USD$248,000","About The Team
+
+You will be joining the UberEats Order Platform Team. This team handles the core product layer orchestration for all Delivery orders at Uber, across the lifecycle from order creation to fulfillment to billing. The main themes within the team are reliability, architectural improvements and new logistical capability building.
+
+About The Role
+
+We are looking for a technical leader with a platform mindset who will manage the team that focuses on evolving our platform offerings as we ..."
+4240381769,Uber,Senior Engineering Manager - Machine Learning,"San Francisco, CA",Mid-Senior level,"ML, Python, Java, machine learning, C, data structures, engineering, algorithms, management, AI","$257,000 per year - USD$285,500","About The Role
+
+We're looking for an experienced and visionary Senior Machine Learning Manager to lead the ML strategy and execution for Uber Grocery's Catalog team . This team powers every single consumer-facing experience in the Uber Eats app -from what users see when they open the app to the products they choose at checkout.
+
+As the ML leader on this team, you'll be responsible for building and scaling a diverse range of AI/ML systems that make sense of vast, complex, and ever-evolving grocer..."
+4247883356,Uber,"Engineering Manager II, Fares Platform","San Francisco, CA",Mid-Senior level,"leadership, engineering, management","$223,000 per year - USD$248,000","About The Team
+
+T he Marketplace Fares Platform Team powers global fares for all of Uber - that's all riders, drivers, eaters, new initiatives and technical consumers. Tens of billions of dollars in gross bookings flow through the systems and experiences within our responsibility. Our scope and critical work spans the entire stack - from platform fare calculation for riders and drivers, to data science prediction of trustworthy upfront prices, to compelling mobile fare experiences for our custom..."
+4240383447,Uber,Senior Engineering Manager - Machine Learning,"New York, NY",Mid-Senior level,"ML, Python, Java, machine learning, C, data structures, engineering, algorithms, management, AI","$257,000 per year - USD$285,500","About The Role
+
+We're looking for an experienced and visionary Senior Machine Learning Manager to lead the ML strategy and execution for Uber Grocery's Catalog team . This team powers every single consumer-facing experience in the Uber Eats app -from what users see when they open the app to the products they choose at checkout.
+
+As the ML leader on this team, you'll be responsible for building and scaling a diverse range of AI/ML systems that make sense of vast, complex, and ever-evolving grocer..."
+4196257672,Oracle,Software Development Director,"Nashville, TN",Mid-Senior level,"cloud, distributed systems, engineering, software development, management, leadership","$122,500 - $291,800","Job Description
+
+Oracle Cloud Infrastructure (OCI) is seeking a highly experienced and strategic Software Director to lead critical infrastructure initiatives in Networking organization. In this role, you will be responsible for driving the design, delivery, and operational excellence of essential infrastructure components. You will lead a high-caliber team, ensuring the achievement of key objectives through exemplary leadership, talent development, and resource optimization. This position deman..."
+4240385151,Uber,Engineering Manager II - InsurTech,"San Francisco, CA",Mid-Senior level,"leadership, engineering, management","$223,000 per year - USD$248,000","About The Role
+
+We're seeking an experienced Engineering Manager in our InsurTech team to shape and deliver the technical roadmap of our next-generation insurance products, impacting millions of users every day. In this role, you'll partner closely with teams across Product, Data Science, Actuarial, and Legal to create innovative solutions that meet Uber's diverse insurance needs. This highly visible position drives tangible improvements to both internal operations and our customers' experience,..."
+4227358512,Google,"Senior Software Engineering Manager, Storage","Sunnyvale, CA",Mid-Senior level,"ML, Python, Java, machine learning, C, cloud, engineering, software development, JavaScript, management, leadership, AI","$248,000-$349,000","Minimum qualifications:
+
+
+ * Bachelor’s degree, or equivalent practical experience.
+ * 8 years of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
+ * 5 years of experience in a technical leadership role; overseeing projects, with 5 years of experience in a people management, supervision/team leadership role.
+ * Experience with flash storage, systems software, kernel drivers and hardware server platforms.
+   
+   
+
+Preferred qualif..."
+4224732225,Oracle,Software Development Director,"Nashville, TN",Mid-Senior level,"cloud, distributed systems, engineering, software development, management, leadership","$122,500 - $291,800","Job Description
+
+Oracle Cloud Infrastructure (OCI) is building a next generation cloud platform that supports the most demanding mission-critical customer requirements, operating at global scale to provide a secure, distributed, multi-tenant cloud environment.
+
+This is your opportunity to be a core part of the team that defines and delivers exciting new capabilities on OCI in the multicloud space. We are seeking a candidate with strong engineering management experience in platform level products..."
+4240734863,Google,"Senior Engineering Manager, Intelligence Team, Devices and Services","Mountain View, CA",Mid-Senior level,"Python, C, engineering, software development, management, leadership, AI","$197,000-$291,000","Minimum qualifications:
+
+
+ * Bachelor’s degree or equivalent practical experience.
+ * 8 years of experience in software development.
+ * 3 years of experience in a technical leadership role; overseeing projects, with 2 years of experience in a people management, supervision/team leadership role.
+ * Experience using Python libraries and frameworks.
+ * Experience developing software applications using the C++ programming language.
+   
+   
+
+Preferred qualifications:
+
+
+ * Master’s degree or PhD in En..."
+4192324451,Oracle,Software Development Senior Manager,"Seattle, WA",Mid-Senior level,"cloud, engineering, software development, management, leadership","$107,100 - $251,600","Job Description
+
+As a Senior Software Development Manager within the Networking organization, you will manage a team supporting our VNICaaS platform. This platform powers many of our most critical network functions.
+
+You will lead a team responsible for rapidly growing the platform as OCI grows while maintaining the stability that is required of a tier 0 service. You will work with our largest internal and external customers to build features necessary for their growth. You will balance the chal..."
+4241254962,Oracle,Software Development Senior Manager,"Austin, TX",Mid-Senior level,"cloud, distributed systems, data structures, engineering, software development, algorithms, management","$212,514 - $251,999","Job Description
+
+Entity: Oracle America, Inc.
+
+Job Duties: Manage a team that designs, develops, troubleshoots and debugs software programs for databases, applications, tools, networks etc. As a manager of the software engineering division, you will apply your knowledge of software architecture to manage software development tasks associated with developing, debugging or designing software applications, operating systems and databases according to provided design specifications. Build enhancemen..."
+4149774702,Oracle,Software Development Director,"Nashville, TN",Mid-Senior level,"cloud, distributed systems, engineering, management, leadership","$122,500 - $291,800","Job Description
+
+Oracle Cloud Infrastructure (OCI) delivers mission-critical applications for top tier enterprises around the world. Our cloud offers unmatched hyper-scale, multi-tenant services deployed in more than 50 regions worldwide. OCI is expanding its mission beyond the traditional boundaries of public cloud to include dedicated, hybrid and multi cloud, edge computing, and more.
+
+At Technical Strategy and Oversight (TSO) organization, our mission is to support customer choice, transparen..."
+4211397674,Oracle,Software Development Director,"Redwood City, CA",Mid-Senior level,"software development, Python, cloud, engineering","$237,120 - $ $291,999","Job Description
+
+Entity: Oracle America, Inc.
+
+Job Duties: Manage a team that designs, develops, troubleshoots and debugs software programs for databases, applications, tools, networks etc. As a director of the software engineering division, you will apply your extensive knowledge of software architecture to manage software development tasks associated with developing, debugging or designing software applications, operating systems and databases according to provided design specifications. Build..."
+4077928634,Amazon,"Applied Science Manager, Amazon Robotics","Seattle, WA",Mid-Senior level,"Python, Java, machine learning, C, engineering, software development, algorithms, management","$165,500/year in our lowest geographic market up to $286,000","Description
+
+Do you want to create intelligent, adaptable robots with global impact? At Amazon Robotics, our collaborative team builds high-performance, real-time robotic systems that perceive, plan, and act intelligently alongside humans—at Amazon scale. Our mission is to enable robots to interact safely, efficiently, and fluently through the complex challenges of a company that sells everything, everywhere. We target high-impact algorithmic unlocks in areas such as scene and activity understan..."
+4245175192,Oracle,Software Development Director,"Seattle, WA",Mid-Senior level,"cloud, distributed systems, engineering, management, leadership","$122,500 - $291,800","Job Description
+
+Oracle Cloud Infrastructure (OCI) delivers mission-critical applications for top tier enterprises around the world. Our cloud offers unmatched hyper-scale, multi-tenant services deployed in more than 50 regions worldwide. OCI is expanding its mission beyond the traditional boundaries of public cloud to include dedicated, hybrid and multi cloud, edge computing, and more.
+
+At Technical Strategy and Oversight (TSO) organization, our mission is to embark on ambitious new initiatives..."
+4192325449,Oracle,Software Development Senior Manager,"Santa Clara, CA",Mid-Senior level,"cloud, engineering, software development, management, leadership","$107,100 - $251,600","Job Description
+
+As a Senior Software Development Manager within the Networking organization, you will manage a team supporting our VNICaaS platform. This platform powers many of our most critical network functions.
+
+You will lead a team responsible for rapidly growing the platform as OCI grows while maintaining the stability that is required of a tier 0 service. You will work with our largest internal and external customers to build features necessary for their growth. You will balance the chal..."
+4247877963,Adobe,Software Development Manager,"Seattle, WA",Mid-Senior level,"software development, leadership, engineering","$143,700 -- $289,900","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."
+4241052088,Amazon,"Software Development Manager, Amazon Optics","New York, United States",Mid-Senior level,"leadership, cloud, engineering, management","$166,400/year in our lowest geographic market up to $287,700","Description
+
+Join our team to lead the development of Amazon's next-generation cloud-first physical security solutions. This role offers an opportunity to work in an environment with strong employee satisfaction metrics across inclusion, team effectiveness, and career growth.
+
+We Are Confident You'll Love Working In Our Organization, But We'll Let The Data Speak For Itself. This Year, Employee Surveys Across Our Six Teams Show The Following
+
+Inclusion: 90% favorable
+
+Team Effectiveness: 88% favo..."
+4091689879,Amazon,"Applied Science Manager, Amazon Robotics","Seattle, WA",Mid-Senior level,"ML, Python, Java, machine learning, C, engineering, software development, algorithms, management","$165,500/year in our lowest geographic market up to $286,000","Description
+
+Do you want to create intelligent, adaptable robots with global impact? The Vulcan Stow team (https://www.amazon.science/latest-news/how-amazon-robotics-researchers-are-solving-a-beautiful-problem) at Amazon Robotics builds high-performance, real-time robotic systems that can perceive, learn, and act intelligently alongside humans—at Amazon scale. We invent and scale Computer Vision / ML systems for robotics in fulfillment centers. Our mission is to enable robots to interact safely,..."
+4201147691,Adobe,Senior Machine Learning Engineering Manager,"San Francisco, CA",Mid-Senior level,"ML, machine learning, engineering, leadership, AI","$168,200 -- $340,100","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."
+4222646758,Adobe,AI Platform Engineering Operations Manager,"San Francisco, CA",Mid-Senior level,"cloud, ML, AI, engineering","$143,700 -- $289,900","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."
+4222648614,Adobe,AI Platform Engineering Operations Manager,"Seattle, WA",Mid-Senior level,"cloud, ML, AI, engineering","$143,700 -- $289,900","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."
+4227917063,Adobe,Manager Software Development,"Seattle, WA",Mid-Senior level,"ML, cloud, engineering, Azure, AI","$143,700 -- $289,900","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."
+4163559804,Amazon,"Software Development Manager, Amazon Robotics","Seattle, WA",Mid-Senior level,"machine learning, engineering, software development, management, leadership","$166,400/year in our lowest geographic market up to $287,700","Description
+
+Are you excited about building fully autonomous robots that can work and learn in complex environments? The Amazon Robotics is creating new products and technologies that make this possible, at Amazon scale.
+
+The Robotic Manipulation organization is looking for a software development manager who can continue to advance the state-of-the art in our domain. Your team will be responsible for doing the basic research to unlock new abilities, bringing those advancements to production, opt..."
+4222652038,Adobe,AI Platform Engineering Operations Manager,"San Jose, CA",Mid-Senior level,"cloud, ML, AI, engineering","$143,700 -- $289,900","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."
+4231627122,Google,"Senior Software Engineering Manager, Infrastructure, Google Cloud Security and Privacy","Sunnyvale, CA",Mid-Senior level,"Python, Java, distributed systems, C, cloud, engineering, software development, JavaScript, management, leadership","$248,000-$349,000","Minimum qualifications:
+
+
+ * Bachelor's degree or equivalent practical experience.
+ * 5 years of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
+ * 5 years of experience in a technical leadership role; overseeing projects, with 5 years of experience in a people management, supervision/team leadership role.
+ * 5 years of experience building and developing large-scale infrastructure or distributed systems.
+   
+   
+
+Preferred quali..."
+4201146673,Adobe,Senior Machine Learning Engineering Manager,"Seattle, WA",Mid-Senior level,"ML, machine learning, engineering, leadership, AI","$168,200 -- $340,100","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."
+4242495258,Oracle,"Director, Software Engineering – Key Value Store","Seattle, WA",Mid-Senior level,"cloud, distributed systems, engineering, management, leadership","$122,500 - $291,800","Job Description
+
+Oracle Cloud Infrastructure (OCI) delivers mission-critical applications for top tier enterprises around the world. Our cloud offers unmatched hyper-scale, multi-tenant services deployed in more than 50 regions worldwide. OCI is expanding its mission beyond the traditional boundaries of public cloud to include dedicated, hybrid and multi cloud, edge computing, and more.
+
+At Technical Strategy and Oversight (TSO) organization, our mission is to support customer choice, transparen..."
+4246611908,Amazon,"Software Development Manager, Amazon Robotics, Robotics Software Solutions","Austin, TX",Mid-Senior level,"software development, leadership, engineering, management","$166,400/year in our lowest geographic market up to $287,700","Description
+
+Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to any of these and you’ll fit right in here at Amazon Robotics. We are a smart team of doers that work passionately to apply next-gen advances in robotics and software to solve real-world challenges that will transform our customers’ experiences in ways we can’t even imagine yet. We invent new improvements every day. We ..."
+4246612947,Amazon,"Software Development Manager, Amazon Robotics, Robotics Software Solutions","Seattle, WA",Mid-Senior level,"software development, leadership, engineering, management","$166,400/year in our lowest geographic market up to $287,700","Description
+
+Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to any of these and you’ll fit right in here at Amazon Robotics. We are a smart team of doers that work passionately to apply next-gen advances in robotics and software to solve real-world challenges that will transform our customers’ experiences in ways we can’t even imagine yet. We invent new improvements every day. We ..."
+4236065047,Oracle,Software Development Snr Manager,"Seattle, WA",Mid-Senior level,"Python, Java, cloud, distributed systems, C, data structures, software development, algorithms, management, leadership","$107,100 - $251,600","Job Description
+
+Senior Software Development Manager-OCI Storage
+
+At Oracle Cloud Infrastructure (OCI), we build the future of the cloud for Enterprises as a diverse team of fellow creators and inventors. We act with the speed and attitude of a start-up, with the scale and customer-focus of the leading enterprise software company in the world.
+
+Values are OCI’s foundation and how we deliver excellence. We strive for equity, inclusion, and respect for all. We are committed to the greater good in ..."
+4241291000,Oracle,Software Development Snr Manager,"Seattle, WA",Mid-Senior level,"cloud, distributed systems, engineering, software development, management, leadership","$107,100 - $251,600","Job Description
+
+The Oracle Cloud Infrastructure (OCI) team delivers mission-critical applications for top tier enterprises around the world. Our cloud offers unmatched hyper-scale, multi-tenant services deployed in more than 50 public regions worldwide. We are looking for a senior, tech-savvy people leader to continue our rapid growth by managing and growing a motivated, collaborative team of top-notch technical talent. This role offers a terrific opportunity to own and build powerful virtual n..."
+4209584112,Oracle,Software Development Senior Manager,"Redwood City, CA",Mid-Senior level,"SQL, Java, cloud, engineering, software development, JavaScript, management","$232,623 - $251,999","Job Description
+
+Entity: Oracle America, Inc.
+
+Job Duties: Manage a team that designs, develops, troubleshoots and debugs software programs for databases, applications, tools, networks etc. As a manager of the software engineering division, apply knowledge of software architecture to manage software development tasks associated with developing, debugging or designing software applications, operating systems and databases according to provided design specifications. Build enhancements within an e..."
+4241291001,Oracle,Software Development Snr Manager,"Burlington, MA",Mid-Senior level,"cloud, distributed systems, engineering, software development, management, leadership","$107,100 - $251,600","Job Description
+
+The Oracle Cloud Infrastructure (OCI) team delivers mission-critical applications for top tier enterprises around the world. Our cloud offers unmatched hyper-scale, multi-tenant services deployed in more than 50 public regions worldwide. We are looking for a senior, tech-savvy people leader to continue our rapid growth by managing and growing a motivated, collaborative team of top-notch technical talent. This role offers a terrific opportunity to own and build powerful virtual n..."
+4228134128,Oracle,Software Development Director,"Nashville, TN",Mid-Senior level,"Python, Java, cloud, distributed systems, data structures, engineering, software development, algorithms","$122,500 - $291,800","Job Description
+
+As a Director or Senior Manager in this team, you will be responsible for setting roadmap goals, collaborating with the product team to gather customer requirements, building and delivering high impact features, as well as driving operational and performance improvements for the platform. You will lead a team of highly talented engineers to deliver impactful business goals for the broader Serverless organization. You will also need to hire, grow, mentor and performance manage th..."
+4201147692,Adobe,Senior Machine Learning Engineering Manager,"San Jose, CA",Mid-Senior level,"ML, machine learning, engineering, leadership, AI","$168,200 -- $340,100","Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences whe..."

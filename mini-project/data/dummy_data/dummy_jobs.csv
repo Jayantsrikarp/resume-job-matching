@@ -1,0 +1,11 @@
+job_id,title,company,location,description,requirements,salary_range,experience_level
+1,Software Engineer,TechCorp,"San Francisco, CA",Develop and maintain software applications using Python and JavaScript.,"Python, JavaScript, Git, SQL, REST APIs, Agile","$100,000 - $150,000",Mid-Senior
+2,Data Scientist,DataInsights,"New York, NY",Analyze large datasets and build predictive models using machine learning techniques.,"Python, R, SQL, Machine Learning, Statistics, Data Visualization","$120,000 - $160,000",Senior
+3,Product Manager,ProductInnovations,"Seattle, WA","Lead product development from conception to launch, working with cross-functional teams.","Product Management, Agile, User Stories, Roadmapping, Analytics","$130,000 - $180,000",Senior
+4,UX Designer,DesignMasters,"Austin, TX",Create user-centered designs and prototypes for web and mobile applications.,"UI/UX Design, Figma, Adobe XD, User Research, Prototyping","$90,000 - $130,000",Mid-Level
+5,DevOps Engineer,CloudOps,"Boston, MA",Build and maintain CI/CD pipelines and cloud infrastructure using AWS and Kubernetes.,"AWS, Docker, Kubernetes, CI/CD, Linux, Terraform","$110,000 - $160,000",Senior
+6,Frontend Developer,FrontendTech,"Chicago, IL","Develop responsive web interfaces using React, HTML, CSS, and JavaScript.","React, HTML, CSS, JavaScript, TypeScript, Responsive Design","$90,000 - $140,000",Mid-Level
+7,Backend Developer,BackendSolutions,"Los Angeles, CA","Build scalable backend services using Node.js, Python, and SQL/NoSQL databases.","Node.js, Python, SQL, NoSQL, REST APIs, Microservices","$100,000 - $150,000",Mid-Senior
+8,Full Stack Developer,FullStackInc,"Denver, CO",Develop full-stack applications using modern frameworks and technologies.,"JavaScript, Python, React, Node.js, SQL, Git","$110,000 - $160,000",Mid-Senior
+9,Machine Learning Engineer,AILabs,"Atlanta, GA",Design and implement machine learning models for production environments.,"Python, TensorFlow, PyTorch, Machine Learning, Deep Learning","$130,000 - $180,000",Senior
+10,Data Analyst,AnalyticsFirst,"Portland, OR",Analyze data and create visualizations and reports for business stakeholders.,"SQL, Python, Excel, Tableau, Data Visualization","$80,000 - $120,000",Entry-Mid

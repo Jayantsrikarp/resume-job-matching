@@ -1,0 +1,21 @@
+
+Resume content (first 200 chars):
+MECHANICAL ENGINEERING INTERN
+Summary
+CAD | CAM | Finite Element Analysis | Mechanical Design | Product Design and Development
+Skills
+5 years of experience with CAD packages (SolidWorks, Autodesk Inve...
+
+Extracted skills (2):
+['r', 'machine learning']
+
+Name: MECHANICAL ENGINEERING INTERN
+Email: 
+Phone: 
+Location: AutoCAD, CA
+
+Education (1):
+  - {'degree': 'May 2017', 'institution': "Master's : Mechanical & Aerospace Engineering Illinois Institute of Technology (IIT) ï¼\u200b City , State Mechanical & Aerospace Engineering 3.5/4.0", 'date': 'May 2017'}
+
+Experience (1):
+  - {'title': '2.5 years of'}
